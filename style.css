@@ -21,44 +21,44 @@
     border: solid 1px black;
     height: 100%;
     width: 25%;
+}
 
-    
+#elemento3{
+    border: solid 1px black;
+    height: 100%;
+    width: 25%;
+}
+
+#elemento4{
+    border: solid 1px black;
+    height: 100%;
+    width: 25%;  
+}
+          
 #item2{
     border: solid 1px blue;
     height: 50px;
     width: 100%;
 
 }
-#elemento2{
-    border: solid 1px black;
-    height: 100%;
-    width: 25%;    
 
-}
 #item3{
     border: solid 1px blue;
     height: 50px;
     width: 100%;
 
 }
-#elemento3{
-    border: solid 1px black;
-    height: 100%;
-    width: 25%;    
+
     
-}
 #item4{
     border: solid 1px blue;
     height: 50px;
     width: 100%;
 
 }
-#elemento4{
-    border: solid 1px black;
-    height: 100%;
-    width: 25%;    
 
-}
+
+
 #item5{
     border: solid 1px blue;
     height: 50px;
